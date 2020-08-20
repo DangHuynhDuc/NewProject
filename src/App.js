@@ -9,6 +9,7 @@ class App extends Component{
       <div>
         {/* <Project1 /> */}
       <Project2 />
+      <h1>Little Change</h1>
       </div>
     );
   }
